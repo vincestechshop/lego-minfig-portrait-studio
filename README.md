@@ -1,5 +1,8 @@
 # lego-minfig-portrait-studio
-These files are related to Vince's Lego Minfig Portrait Studio project.  This code expects that it is running on a Raspberry Pi with a camera module and rclone is configured to a cloud provider.  It has been tested on a Raspberry Pi `3` and `Zero W`.
+These files are related to Vince's Lego Minfig Portrait Studio project featured in this video:
+https://youtu.be/qZepMgF6puw
+
+This code expects that it is running on a Raspberry Pi with a camera module and rclone is configured to a cloud provider.  It has been tested on a Raspberry Pi `3` and `Zero W`.
 
 # Prerequisites
 Install and configure rclone to a cloud provider: https://github.com/rclone/rclone
